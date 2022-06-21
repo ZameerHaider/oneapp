@@ -1,7 +1,7 @@
 /*
  * File name: main.dart
- * Last modified: 2022.02.18 at 19:24:11
- * Author: SmarterVision - https://codecanyon.net/user/smartervision
+ * Last modified: 2022.06.21 at 19:24:11
+ * Author: Zameer Haider - 
  * Copyright (c) 2022
  */
 
